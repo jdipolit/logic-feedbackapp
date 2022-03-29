@@ -19,3 +19,6 @@ Recursos
 3. **Prod:**
     * Cosmos: cosmos-feedbackapp-prod
     * Logic App: logic-feedbackapp-prod
+
+
+Ao configurar os Logic Apps pela primeira vez, não esquecer de verificar se a configuração *AzureCosmosDB_connectionString* está preenchida com a string do Cosmos
