@@ -22,6 +22,7 @@ Este projeto também faz parte de um laboratório destinado a estudo de ALM em d
     - Logic App: logic-feedbackapp-hom  
 
 3. **Prod:**
+<<<<<<< HEAD
     - Cosmos: cosmos-feedbackapp-prod
     - Logic App: logic-feedbackapp-prod
 
